@@ -5,6 +5,9 @@
   </action>
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="Console.History.Browse" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
