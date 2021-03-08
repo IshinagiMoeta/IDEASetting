@@ -7,14 +7,21 @@
   <action id="Console.History.Browse" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
-  <action id="RenameElement" />
-  <action id="ReplaceInPath">
+  <action id="RenameFile">
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -22,4 +29,5 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="tasks.switch" />
 </keymap>
