@@ -5,6 +5,7 @@
     <option name="firstTime" value="false" />
     <option name="moveableStickers" value="true" />
     <option name="showThemeStatusBar" value="false" />
+    <option name="stickerLevel" value="OFF" />
     <option name="themedTitleBar" value="false" />
     <option name="userId" value="9b41880e-dd15-4cf4-a19d-ce1d7a1547dc" />
     <option name="version" value="13.2.2" />
