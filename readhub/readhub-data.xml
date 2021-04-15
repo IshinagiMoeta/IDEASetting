@@ -92,6 +92,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="85rhVXA3Ggt" />
                 <option name="order" value="343679" />
               </RHBaseItem>
@@ -3956,6 +3957,33 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="id" value="13936847" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937402" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937340" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937328" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937338" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937415" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937438" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937445" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937442" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="13937444" />
               </RHBaseItem>
             </list>
           </value>
