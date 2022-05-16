@@ -14,5 +14,6 @@
     <mask>*.mk</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.gr</mask>
   </component>
 </application>
