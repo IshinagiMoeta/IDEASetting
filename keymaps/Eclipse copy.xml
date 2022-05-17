@@ -5,6 +5,9 @@
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="ChangesView.Rename" />
   <action id="Console.History.Browse" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="RenameFile">
