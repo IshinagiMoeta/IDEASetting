@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="signSetting" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
