@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="PrjBuild" type="AUTO_DETECTED" />
       <mapping pattern="signSetting" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
